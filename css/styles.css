@@ -1,0 +1,196 @@
+body{font-family: "Roboto", sans-serif; color: #434455;   
+    background-color: #FFFFFF;
+    }
+
+    ul{list-style-type: none;}
+
+        a {
+            text-decoration: none;}
+
+    head{background-color: #FFF;}
+
+    .main-name{color: #4D5AE5;
+        font-family: "Raleway", sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+    }
+
+    .special{color: #2e2f42;}
+
+    .menu{color:  #2E2F42;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.32px;
+        line-height: 1.5;
+    }
+
+        .menu:hover{color: #404BBF;
+           }
+
+            .menu:focus{color: #404BBF;
+                }  
+
+                .contakts { font-style: normal;}
+
+                .mail{color: #434455;
+                font-size: 16px;
+                    letter-spacing: 0.02em;
+                    line-height: 1.5;}
+
+                    .mail:hover{color: #404bbf;}
+
+                    .mail:focus{color: #404BBF;}
+
+ 
+          
+                    
+      
+
+
+           
+
+   .cont{background-color: #2E2F42;}
+
+   .head{color: #FFF;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 1.12px;
+    line-height: 1.07;
+        text-align: center;}
+
+    .btn{background-color: #4D5AE5;
+        color: #ffffff;
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+       ;cursor: pointer;
+    letter-spacing: 0.04em;
+    }
+
+.btn:focus{background-color: #404BBF;}
+.btn:hover{background-color: #404BBF;}
+
+    .cont_{background-color: #FFF;}
+
+        .list{
+            color: #2E2F42;
+            font-family: Roboto;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 500;
+            letter-spacing: 0.4px;
+            line-height: 1.2;
+        }
+
+        .stretegy{color: #434455;
+            font-family: Roboto;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            letter-spacing: 0.32px;
+        line-height: 1.5;
+        }
+
+            .contthree{background-color: #F4F4FD;}
+
+            .team{color:#2E2F42;
+                font-family: Roboto;
+                font-size: 36px;
+                font-style: normal;
+                font-weight: 700;
+                letter-spacing: 0.72px;
+                text-transform: capitalize;
+                line-height: 1.11;
+                text-align: center;
+            }
+
+                .mark{color: #2E2F42;
+                    background-color: #FFFFFF;
+                    font-family: Roboto;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 500;
+                    letter-spacing: 0.4px;
+                    line-height: 1.2;
+                }
+
+                    .guerrero{color: #434455;
+                        font-family: Roboto;
+                        font-size: 16px;
+                        font-style: normal;
+                        font-weight: 400;
+                        letter-spacing: 0.32px;
+                        line-height: 1.5;
+                    } 
+
+                    .first{background-color: #FFFFFF;}
+                        
+.cont4{background-color: #FFF;}
+
+.portf{color: #2E2F42;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;}
+        
+    .app{ color: #2E2F42;
+             font-family: Roboto;
+             font-size: 20px;
+             font-style: normal;
+             font-weight: 500;
+             letter-spacing: 0.4px;
+             line-height: 1.5;
+         }
+         .proba .sproba>h3{
+                line-height: 1.2;
+            }
+
+                 .subapp{color: 434455;
+                    font-family: Roboto;
+                    font-size: 16px;
+                    font-style: normal;
+                    font-weight: 400;
+                    letter-spacing: 0.32px;
+                line-height: 1.5;}
+
+                    .kinec{background-color: #2E2F42;}
+
+                    .logotyp{color: #4D5AE5;
+                        font-family: "Raleway", sans-serif;
+                        font-size: 18px;
+                        font-style: normal;
+                        font-weight: 700;
+                        letter-spacing: 0.54px;
+                        text-transform: uppercase;
+                        line-height: 1.17;
+                    }
+
+                        .end{color: #F4F4FD;
+                            font-family: Roboto;
+                            font-size: 16px;
+                            font-style: normal;
+                            font-weight: 400;
+                            letter-spacing: 0.32px;
+                            line-height: 1.5;
+                            
+                        }
+
+                            .studio{color: #F4F4FD;
+                                font-family: "Raleway", sans-serif;
+                                font-size: 18px;
+                                font-style: normal;
+                                font-weight: 700;
+                                line-height: 21px;
+                                letter-spacing: 0.54px;
+                                text-transform: uppercase;}
