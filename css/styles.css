@@ -29,7 +29,7 @@ body{font-family: "Roboto", sans-serif; color: #434455;
         a {
             text-decoration: none;}
 
-            cap-section.{background-color: #FFF;
+            .cap-section{background-color: #FFF;
             border-bottom: 1px solid #e7e9fc;
             }
 
@@ -252,8 +252,9 @@ body{font-family: "Roboto", sans-serif; color: #434455;
 
 
                                 .container-header{display: flex;
-width: 1440px;
-padding: 24px 156px;
+width: 1158px;
+margin: 0 auto;
+padding: 0px 15px;
 }
 
 .container-header nav{display: flex;}
