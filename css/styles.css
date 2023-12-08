@@ -293,13 +293,25 @@ header div{display: flex;}
 
 
                 .section-one{
-                    padding: 120px 156px;
+                    padding: 120px 0;
                     
                 }
 
+                .visually-hidden {
+                    position: absolute;
+                    clip: rect(0 0 0 0);
+                    width: 1px;
+                    height: 1px;
+                    margin: -1px;
+                  }
+
                 .container-main-ul{
                     display: flex;
-                        
+                    gap: 24px;    
+                }
+
+                .container-main-ul-item{
+                    width: calc((100% - 72px) / 3);
                 }
 
                .container-main-ul li:not(:last-child) {
