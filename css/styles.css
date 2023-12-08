@@ -46,6 +46,8 @@ body{font-family: "Roboto", sans-serif; color: #434455;
         line-height: 1.17;
         letter-spacing: 0.54px;
         text-transform: uppercase;
+        margin-right: 76px;
+        padding: 24px 0;
         
     }
 
@@ -251,22 +253,25 @@ body{font-family: "Roboto", sans-serif; color: #434455;
 
 
 
-                                .container-header{display: flex;
+                                .container{display: flex;
 width: 1158px;
 margin: 0 auto;
 padding: 0px 15px;
 }
 
-.container-header nav{display: flex;}
+.header-nav{display: flex;
+align-items: center;
+}
 
 .menu-items{display: flex;
     gap: 40px;
-margin-left: 76px;
 margin-right: 332px;
+padding: 24px 0;
 }
 
-.contakts ul{display: flex;
+.header-contakts{display: flex;
 gap: 40px;
+padding: 24px 0;
 }
 
                                 .container-hero-image{
