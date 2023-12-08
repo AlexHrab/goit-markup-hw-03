@@ -29,7 +29,14 @@ body{font-family: "Roboto", sans-serif; color: #434455;
         a {
             text-decoration: none;}
 
-    head{background-color: #FFF;}
+            cap-section.{background-color: #FFF;
+            border-bottom: 1px solid #e7e9fc;
+            }
+
+            .container{width: 1158px;
+            margin: 0;
+            padding: 0 15px;
+            }
 
     .main-name{color: #4D5AE5;
         font-family: "Raleway", sans-serif;
